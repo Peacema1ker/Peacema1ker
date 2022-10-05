@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on websites and python related projects.
 
-Nice to meet you! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 
 
