@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Peacema1ker
 - 👀 I’m interested in coding and AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on websites and python related projects.
 
 <!---
 Peacema1ker/Peacema1ker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
