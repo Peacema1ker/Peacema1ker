@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Peacema1ker
+- 👋 Hi, I’m Akhilesh
 - 👀 I’m interested in AI and Semi-conductors
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on websites and python related projects.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on python and C++ related projects.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peacema1ker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
